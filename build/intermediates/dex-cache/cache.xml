@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-7.5.0_84784b3d8e768dc4f50f66d72af0058fb91c6db4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_d73acfaf882b8385cd920dc227f5937738ff3a51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-7.5.0_b38d8d0a48ac1219ec4dcb4bc2f3ce6f88aed07e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-7.5.0_cf8a7067f641c26a1c52103b091c689a4df7e3a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-7.5.0_93f168aa222d6af9e394544ede61c760c9b71a3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0_bff713d4c4514ca200de8cb02553868491142cf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-7.5.0_c4c40dee177aa01a88bfd0bd57f563c1dd3fdf42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-7.5.0_76191e3e6e78f64b6f8e723a5d82080e38d95474.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-7.5.0_024ecf822a7f586a4c507ee2a1e301de09b4e972.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-7.5.0_55c57d43b12d45c7023d46426f8deb5127571cb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/okio-1.8.0_46f0e3ac39c6d2cfbf8e85843773b10ff03bd9d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_b5585cdc0df1a397f1b988c02ae98f030d11dbd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-22.0.0_71c0c855f984dbd1bcc80aade1952d89e0d956b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-7.5.0_3ab9bf16a17e45d1edafcc0b7e2f6fa252b3fef8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.0_5b02dab88c4a1e757f6899b71fee18339d306af8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-7.5.0_8d020c5aff3e1690664cf7ac76707e7ac85ef198.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appstate-7.5.0_4cab94e1e47dd1011957cb1d68143b0dcab68c3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-7.5.0_d1fa49511273648e631e53b7be985404f3f35b4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-7.5.0_9dac9aa15e3b01d34d043435be97700067f1ec9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_8a5cffc136f284fc31efd63b6161fb9d6bb3cccb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-7.5.0_b37ea957ef8a54d70056684d8f9a99dba6557a92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-7.5.0_21d8214c05b5032c4f743f06b52a78f4921e9708.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-7.5.0_033de9fcf7d7262cea218be6419e1ec838194b98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-7.5.0_3b5bde73e7c4c3e8815a1eaf9055706153d162ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-7.5.0_54b02f1e594f1bb8c7afb3ce046b956ec28b8cbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/gson-2.7_e954e2bb6f6b34ff48ca2f50aef3f903a3bc15a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-7.5.0_1482ed7e40501c97616403c4e7eb5fa4cfbfb798.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_d3798a10657d89e602303c1e51c767b5a31f5700.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-7.5.0_6fc0728587d06e02436be93a49397b51d4ba8ed9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_35e631aa51fbeba5a6241331f15ef01f47fe8040.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/ezhong/Desktop/iCareProject-master/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_a0452fdfb0d367757c6c504f7438266d8e8bccf6.jar" />
+    </item>
+
+</items>
